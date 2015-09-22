@@ -1,0 +1,16 @@
+[
+{
+  "modid": "abp",
+  "name": "Apocalypse Build Pack",
+  "description": "Building pack for apocalypse maps",
+  "version": "0.1",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["VovaMaster99"],
+  "credits": "MrCrayfish for tutorials",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,6 @@
+tile.asphalt_normal.name=Asphalt
+tile.asphalt_broken.name=Broken Asphalt
+tile.asphalt_lined.name=Lined Asphalt
+tile.asphalt_double_lined=Double Lined Asphalt
+
+itemGroup.tabABP=Apocalypse Build Pack
