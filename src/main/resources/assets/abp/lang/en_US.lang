@@ -2,8 +2,8 @@ tile.asphalt_normal.name=Asphalt
 tile.asphalt_broken.name=Broken Asphalt
 tile.asphalt_lined.name=Lined Asphalt
 tile.asphalt_double_lined.name=Double Lined Asphalt
-tile.asphalt_dotted_lined=Dotted Lined Asphalt
-tile.asphalt_lined_corner=Lined Asphalt Corner
+tile.asphalt_dotted_lined.name=Dotted Lined Asphalt
+tile.asphalt_lined_corner.name=Lined Asphalt Corner
 tile.asphalt_double_lined_corner.name=Double Lined Asphalt Corner
 tile.asphalt_dotted_lined_corner.name=Dotted Lined Asphalt Corner
 
